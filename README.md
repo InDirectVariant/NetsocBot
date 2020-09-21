@@ -13,12 +13,26 @@ See what we're working on
 
 https://github.com/InDirectVariant/NetsocBot/projects
 
+---
 ## Contributing
 Do you have an idea for the bot? Want to clean up some messy code?
 
 To contribute to the development of the Netsoc Bot you can fork and clone the master branch, make your changes, push your changes, then open a pull request to the master branch here
 
-### Testing your code
+## Environment
+
+To set up your environment run the following commands after forking the repo. Ensure you have Python 3.8 or later installed. If using Windows this is best done through WSL.
+
+```bash
+git clone <your repo url>
+cd NetsocBot
+python3 -m venv .
+source bin/activate
+pip install -r requirements.txt
+```
+
+---
+## Testing your code
 You'll need your own bot token and owner ID. 
 
 To obtain a bot token visit https://developer.discord.com then create an application, then a bot. From there you can find your token. Repalce `cfg["token"]` on Line 9 with your token

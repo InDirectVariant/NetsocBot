@@ -1,1 +1,7 @@
-/config.yml
+/src/config.yml
+/pyvenv.cfg
+/bin
+/include
+/lib
+/lib64
+/share
