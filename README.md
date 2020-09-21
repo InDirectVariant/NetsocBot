@@ -8,6 +8,11 @@ The official Discord bot for the Netsoc OT - Official Discord
 * Confirms users have read the rules of the server before accepting their application
 * More coming soon...
 
+## Projects
+See what we're working on
+
+https://github.com/InDirectVariant/NetsocBot/projects
+
 ## Contributing
 Do you have an idea for the bot? Want to clean up some messy code?
 
