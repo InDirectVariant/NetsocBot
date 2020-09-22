@@ -35,9 +35,9 @@ pip install -r requirements.txt
 ## Testing your code
 You'll need your own bot token and owner ID. 
 
-To obtain a bot token visit https://developer.discord.com then create an application, then a bot. From there you can find your token. Repalce `cfg["token"]` on Line 9 with your token
+To obtain a bot token visit https://developer.discord.com then create an application, then a bot. From there you can find your token. Put your token in the config.yml file.
 
-To obtain an owner ID you'll need to enable developer mode in Discord. Once done, right click your user in any server and click `Copy ID`. Replace `cfg["owner-id"]` on Line 13 with your ID
+To obtain an owner ID you'll need to enable developer mode in Discord. Once done, right click your user in any server and click `Copy ID`. Put your ID in the config.yml file.
 
 If you have any issues with the above please reach out to me on the Discord -> IDVariant#5643
 
