@@ -1,5 +1,6 @@
 # NetsocBot
-The official Discord bot for the Netsoc OT - Official Discord
+~~The official Discord bot for the Netsoc OT - Official Discord~~
+The no longer official Discord bot for Netsoc OT.
 
 ## Features
 * User verification based on Email
